@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hopesource</title>
+  
+  
+  <link href="http://www.hopesource.cn/atom.xml" rel="self"/>
+  
+  <link href="http://www.hopesource.cn/"/>
+  <updated>2020-08-17T09:52:29.019Z</updated>
+  <id>http://www.hopesource.cn/</id>
+  
+  <author>
+    <name>April7zn</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://www.hopesource.cn/2020/08/17/hello-world/"/>
+    <id>http://www.hopesource.cn/2020/08/17/hello-world/</id>
+    <published>2020-08-17T09:05:08.677Z</published>
+    <updated>2020-08-17T09:52:29.019Z</updated>
+    
+    <content type="html"><![CDATA[<hr><p>title: Hello World</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;hr&gt;
+&lt;p&gt;title: Hello World&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
