@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.hopesource.cn/2020/08/20/omcat%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80/</loc>
+    
+    <lastmod>2020-08-20</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.hopesource.cn/2020/08/17/hello-world/</loc>
     
-    <lastmod>2020-08-18</lastmod>
+    <lastmod>2020-08-20</lastmod>
     
   </url>
   
 
   <url>
     <loc>http://www.hopesource.cn/</loc>
-    <lastmod>2020-08-18</lastmod>
+    <lastmod>2020-08-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
