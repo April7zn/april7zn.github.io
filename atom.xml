@@ -6,7 +6,7 @@
   <link href="http://www.hopesource.cn/atom.xml" rel="self"/>
   
   <link href="http://www.hopesource.cn/"/>
-  <updated>2020-08-20T05:26:54.164Z</updated>
+  <updated>2020-08-20T06:26:37.933Z</updated>
   <id>http://www.hopesource.cn/</id>
   
   <author>
@@ -17,25 +17,27 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Tomcat下载地址</title>
-    <link href="http://www.hopesource.cn/2020/08/20/tomcat%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80/"/>
-    <id>http://www.hopesource.cn/2020/08/20/tomcat%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80/</id>
-    <published>2020-08-20T05:20:35.000Z</published>
-    <updated>2020-08-20T05:26:54.164Z</updated>
+    <title>tomcat</title>
+    <link href="http://www.hopesource.cn/2020/08/20/tomcat/"/>
+    <id>http://www.hopesource.cn/2020/08/20/tomcat/</id>
+    <published>2020-08-20T05:49:29.000Z</published>
+    <updated>2020-08-20T06:26:37.933Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>Tomcat 下载地址<br><a href="https://archive.apache.org/dist/tomcat">https://archive.apache.org/dist/tomcat</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<p>请点击<a href="https://archive.apache.org/dist/tomcat">Tomcat</a> 打开下载页面。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;ul&gt;
-&lt;li&gt;Tomcat 下载地址&lt;br&gt;&lt;a href=&quot;https://archive.apache.org/dist/tomcat&quot;&gt;https://archive.apache.org/dist/tomcat&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+    <summary type="html">&lt;p&gt;请点击&lt;a href=&quot;https://archive.apache.org/dist/tomcat&quot;&gt;Tomcat&lt;/a&gt; 打开下载页面。&lt;/p&gt;
 </summary>
       
     
     
     
+    <category term="工具" scheme="http://www.hopesource.cn/categories/tools/"/>
+    
+    
+    <category term="java" scheme="http://www.hopesource.cn/tags/java/"/>
     
   </entry>
   
