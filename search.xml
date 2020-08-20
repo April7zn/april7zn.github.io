@@ -4,19 +4,10 @@
     
     <entry>
         <title><![CDATA[Tomcat下载地址]]></title>
-        <url>http://www.hopesource.cn/2020/08/20/omcat%25E4%25B8%258B%25E8%25BD%25BD%25E5%259C%25B0%25E5%259D%2580/</url>
-        <content type="html"><![CDATA[<p>– Tomcat 下载地址<br><a href="https://archive.apache.org/dist/tomcat">https://archive.apache.org/dist/tomcat</a></p>
-]]></content>
-        
-        
-    </entry>
-    
-    <entry>
-        <title></title>
-        <url>http://www.hopesource.cn/2020/08/17/hello-world/</url>
-        <content type="html"><![CDATA[<hr>
-<hr>
-<p>title: Hello Worlde</p>
+        <url>http://www.hopesource.cn/2020/08/20/tomcat%25E4%25B8%258B%25E8%25BD%25BD%25E5%259C%25B0%25E5%259D%2580/</url>
+        <content type="html"><![CDATA[<ul>
+<li>Tomcat 下载地址<br><a href="https://archive.apache.org/dist/tomcat">https://archive.apache.org/dist/tomcat</a></li>
+</ul>
 ]]></content>
         
         
